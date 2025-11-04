@@ -19,7 +19,7 @@ Welcome to my GitHub profile! This is my first time using it and hope to grow an
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/isaiahguerrero)  
-- [YouTube](https://www.youtube.com/@yourchannelname)  
+- [YouTube](https://www.youtube.com/@isaiahgerero)  
 - [Instagram](https://www.instagram.com/isaiahgerero/)  
 
 ## Fun Fact
