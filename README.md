@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Isaiah Guerrero
 
-<!--
-**isaiahguerrero/isaiahguerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Youtuber | 3D Printing Enthusiast | Aspiring Developer**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! This is my first time using it and hope to grow and learn more!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I’m currently majoring in Computer Science at ASU
+- I enjoy experimenting with **3D printing** and **minimalist design**
+- My goal after graduation is to create my own projects and grow my **YouTube channel** focused day to day life and fun projects
+
+## Technical Skills
+
+- **Languages:** Python, C++
+- **Design:** Fusion 360, Adobe Illustrator 
+- **Other:** 3D Printing, Video Editing, Content Creation
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/isaiahguerrero)  
+- [YouTube](https://www.youtube.com/@yourchannelname)  
+- [Instagram](https://www.instagram.com/isaiahgerero/)  
+
+## Fun Fact
+When I’m not coding or making YouTube videos, I’m busy designing 3D prints that make life a little easier
+
+My quote: “Create something - even if it’s bad. You’ll get better by doing.”
