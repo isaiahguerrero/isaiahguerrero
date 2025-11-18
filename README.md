@@ -26,3 +26,5 @@ Welcome to my GitHub profile! This is my first time using it and hope to grow an
 When I’m not coding or making YouTube videos, I’m busy designing 3D prints that make life a little easier
 
 My quote: “Create something - even if it’s bad. You’ll get better by doing.”
+
+Besties with @erwinangeles
